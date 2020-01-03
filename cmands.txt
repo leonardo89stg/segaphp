@@ -1,0 +1,1 @@
+gamename.ext (console) (country) (-fullscreen)
